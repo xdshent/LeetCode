@@ -51,5 +51,10 @@ public class SpiralMatrixSolutionTest {
         result = SpiralMatrixSolution.spiralOrder(matrix);
         Assert.assertArrayEquals(expected,result.toArray(new Integer[0]));
 
+        matrix = new int[][]{{}};
+        expected = new Integer[]{};
+        result = SpiralMatrixSolution.spiralOrder(matrix);
+        Assert.assertArrayEquals(expected,result.toArray(new Integer[0]));
+
     }
 }
