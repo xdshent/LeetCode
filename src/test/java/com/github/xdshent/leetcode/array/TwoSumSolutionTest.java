@@ -24,8 +24,19 @@ public class TwoSumSolutionTest {
         int target = 9;
         int[] result = TwoSumSolution.twoSum(array, target);
         Assert.assertTrue(result.length > 0);
-
         int[] expected = {0, 1};
+        Assert.assertArrayEquals(expected, result);
+
+        target = 20;
+        result = TwoSumSolution.twoSum(array, target);
+        Assert.assertTrue(result.length == 0);
+        expected = new int[]{};
+        Assert.assertArrayEquals(expected, result);
+
+        array = new int[]{};
+        result = TwoSumSolution.twoSum(array, target);
+        Assert.assertTrue(result.length == 0);
+        expected = new int[]{};
         Assert.assertArrayEquals(expected, result);
     }
 }
