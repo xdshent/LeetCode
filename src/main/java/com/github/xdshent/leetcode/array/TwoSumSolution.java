@@ -14,8 +14,19 @@ import java.util.Map;
  * Given nums = [2, 7, 11, 15], target = 9
  * Because nums[0] + nums[1] = 2 + 7 = 9,
  * return [0, 1]
+ *
+ * @author xdshen
  */
 public class TwoSumSolution {
+
+    /**
+     * Time Complexity: O(N)
+     * Space Complexity: O(N)
+     *
+     * @param nums
+     * @param target
+     * @return
+     */
     public static int[] twoSum(int[] nums, int target) {
         if (nums == null || nums.length == 0 || nums.length == 1) {
             return new int[]{};
