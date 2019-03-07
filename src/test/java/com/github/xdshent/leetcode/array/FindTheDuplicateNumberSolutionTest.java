@@ -30,6 +30,10 @@ public class FindTheDuplicateNumberSolutionTest {
         result = FindTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(3, result);
 
+        array = new int[]{5, 1, 3, 4, 2};
+        result = FindTheDuplicateNumberSolution.findDuplicate(array);
+        Assert.assertEquals(-1, result);
+
         array = null;
         result = FindTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(-1, result);
