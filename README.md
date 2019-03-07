@@ -4,6 +4,9 @@
 
 Data structure and algorithms practice in Java, will be continuously updated.
 ## Array
-* 1.[TwoSum](src/main/java/com/github/xdshent/leetcode/array/TwoSumSolution.java) (Easy)
-* 54.[Spiral Matrix](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) (Medium)
-* 287.[Find the Duplicate Number](src/main/java/com/github/xdshent/leetcode/array/FindTheDuplicateNumberSolution.java) (Medium)
+
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/main/java/com/github/xdshent/leetcode/array/TwoSumSolution.java) | Easy |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindTheDuplicateNumberSolution.java) | Medium |
