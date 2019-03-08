@@ -10,3 +10,9 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/main/java/com/github/xdshent/leetcode/array/TwoSumSolution.java) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindTheDuplicateNumberSolution.java) | Medium |
+
+## Linked
+
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveNodeSolution.java) | Medium |
