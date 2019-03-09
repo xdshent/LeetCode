@@ -16,3 +16,4 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveNodeSolution.java) | Medium |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/ReverseLinkedList.java) | Easy |
