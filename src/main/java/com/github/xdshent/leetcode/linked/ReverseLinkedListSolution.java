@@ -10,7 +10,7 @@ package com.github.xdshent.leetcode.linked;
  *
  * @author xdshen
  */
-public class ReverseLinkedList {
+public class ReverseLinkedListSolution {
 
     /**
      * Time Complexity: O(N)
