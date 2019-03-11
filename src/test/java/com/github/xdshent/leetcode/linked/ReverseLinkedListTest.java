@@ -33,17 +33,17 @@ public class ReverseLinkedListTest {
 
     @Test
     public void reverseList() {
-        SinglyLinkedNode result = ReverseLinkedList.reverseList(head);
+        SinglyLinkedNode result = ReverseLinkedListSolution.reverseList(head);
         Integer[] expected = new Integer[]{5, 4, 3, 2, 1};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         head = new SinglyLinkedNode(8);
-        result = ReverseLinkedList.reverseList(head);
+        result = ReverseLinkedListSolution.reverseList(head);
         expected = new Integer[]{8};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         head = null;
-        result = ReverseLinkedList.reverseList(head);
+        result = ReverseLinkedListSolution.reverseList(head);
         expected = new Integer[]{};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
