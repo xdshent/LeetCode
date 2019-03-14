@@ -20,3 +20,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MergeTwoSortedListsSolution.java) | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/SwapNodesInPairs.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/ReverseLinkedListSolution.java) | Easy |
+
+## Math
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ReverseInteger.java) | Easy |
