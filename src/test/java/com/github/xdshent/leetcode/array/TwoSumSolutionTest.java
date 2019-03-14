@@ -23,19 +23,28 @@ public class TwoSumSolutionTest {
     public void twoSum() {
         int target = 9;
         int[] result = TwoSumSolution.twoSum(array, target);
-        Assert.assertTrue(result.length > 0);
         int[] expected = {0, 1};
         Assert.assertArrayEquals(expected, result);
 
         target = 20;
         result = TwoSumSolution.twoSum(array, target);
-        Assert.assertTrue(result.length == 0);
         expected = new int[]{};
         Assert.assertArrayEquals(expected, result);
 
         array = new int[]{};
+        target = 15;
         result = TwoSumSolution.twoSum(array, target);
-        Assert.assertTrue(result.length == 0);
+        expected = new int[]{};
+        Assert.assertArrayEquals(expected, result);
+
+        target = 10;
+        result = TwoSumSolution.twoSum(null, target);
+        expected = new int[]{};
+        Assert.assertArrayEquals(expected, result);
+
+        array = new int[]{5};
+        target = 5;
+        result = TwoSumSolution.twoSum(array, target);
         expected = new int[]{};
         Assert.assertArrayEquals(expected, result);
     }
