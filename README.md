@@ -24,4 +24,4 @@ Data structure and algorithms practice in Java, will be continuously updated.
 ## Math
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ReverseInteger.java) | Easy |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ReverseIntegerSolution.java) | Easy |
