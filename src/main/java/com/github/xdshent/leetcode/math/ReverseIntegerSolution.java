@@ -23,7 +23,7 @@ package com.github.xdshent.leetcode.math;
  *
  * @author xdshen
  */
-public class ReverseInteger {
+public class ReverseIntegerSolution {
 
     /**
      * Time Complexity: O(L)
@@ -32,7 +32,7 @@ public class ReverseInteger {
      * @param x
      * @return
      */
-    public static int reverse(int x) {
+    public int reverse(int x) {
         int result = 0;
         while (x != 0) {
             if (Math.abs(result) > Integer.MAX_VALUE / 10) {
