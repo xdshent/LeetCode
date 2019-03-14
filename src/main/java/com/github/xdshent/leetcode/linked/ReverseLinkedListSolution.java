@@ -19,7 +19,7 @@ public class ReverseLinkedListSolution {
      * @param head
      * @return
      */
-    public static SinglyLinkedNode reverseList(SinglyLinkedNode head) {
+    public SinglyLinkedNode reverseList(SinglyLinkedNode head) {
         if (head == null || head.next == null) {
             return head;
         }

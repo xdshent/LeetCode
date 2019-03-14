@@ -12,6 +12,7 @@ import java.util.List;
 public class ReverseLinkedListTest {
 
     private SinglyLinkedNode head;
+    private ReverseLinkedListSolution reverseLinkedListSolution;
 
     @Before
     public void setUp() throws Exception {
@@ -25,6 +26,8 @@ public class ReverseLinkedListTest {
         firstNode.next = secondNode;
         secondNode.next = thirdNode;
         thirdNode.next = fourthNode;
+
+        reverseLinkedListSolution = new ReverseLinkedListSolution();
     }
 
     @After
@@ -33,17 +36,17 @@ public class ReverseLinkedListTest {
 
     @Test
     public void reverseList() {
-        SinglyLinkedNode result = ReverseLinkedListSolution.reverseList(head);
+        SinglyLinkedNode result = reverseLinkedListSolution.reverseList(head);
         Integer[] expected = new Integer[]{5, 4, 3, 2, 1};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         head = new SinglyLinkedNode(8);
-        result = ReverseLinkedListSolution.reverseList(head);
+        result = reverseLinkedListSolution.reverseList(head);
         expected = new Integer[]{8};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         head = null;
-        result = ReverseLinkedListSolution.reverseList(head);
+        result = reverseLinkedListSolution.reverseList(head);
         expected = new Integer[]{};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 

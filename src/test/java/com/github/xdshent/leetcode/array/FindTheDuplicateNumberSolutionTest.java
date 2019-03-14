@@ -10,10 +10,12 @@ import static org.junit.Assert.*;
 public class FindTheDuplicateNumberSolutionTest {
 
     private int[] array;
+    private FindTheDuplicateNumberSolution findTheDuplicateNumberSolution;
 
     @Before
     public void setUp() throws Exception {
         array = new int[]{1, 3, 4, 2, 2};
+        findTheDuplicateNumberSolution = new FindTheDuplicateNumberSolution();
     }
 
     @After
@@ -23,27 +25,28 @@ public class FindTheDuplicateNumberSolutionTest {
 
     @Test
     public void findDuplicate() {
-        int result = FindTheDuplicateNumberSolution.findDuplicate(array);
+
+        int result = findTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(2, result);
 
         array = new int[]{3, 1, 3, 4, 2};
-        result = FindTheDuplicateNumberSolution.findDuplicate(array);
+        result = findTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(3, result);
 
         array = new int[]{5, 1, 3, 4, 2};
-        result = FindTheDuplicateNumberSolution.findDuplicate(array);
+        result = findTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(-1, result);
 
         array = null;
-        result = FindTheDuplicateNumberSolution.findDuplicate(array);
+        result = findTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(-1, result);
 
         array = new int[]{};
-        result = FindTheDuplicateNumberSolution.findDuplicate(array);
+        result = findTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(-1, result);
 
         array = new int[]{1};
-        result = FindTheDuplicateNumberSolution.findDuplicate(array);
+        result = findTheDuplicateNumberSolution.findDuplicate(array);
         Assert.assertEquals(-1, result);
     }
 }

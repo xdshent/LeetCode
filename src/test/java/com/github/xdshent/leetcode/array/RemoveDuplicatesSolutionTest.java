@@ -8,10 +8,12 @@ import org.junit.Test;
 public class RemoveDuplicatesSolutionTest {
 
     private int[] array;
+    private RemoveDuplicatesSolution removeDuplicatesSolution;
 
     @Before
     public void setUp() throws Exception {
         array = new int[]{0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
+        removeDuplicatesSolution = new RemoveDuplicatesSolution();
     }
 
     @After
@@ -21,24 +23,24 @@ public class RemoveDuplicatesSolutionTest {
 
     @Test
     public void removeDuplicates() {
-        int newLength = RemoveDuplicatesSolution.removeDuplicates(array);
+        int newLength = removeDuplicatesSolution.removeDuplicates(array);
         int[] expected = {0, 1, 2, 3, 4};
-        int matchedLength = getMatchedLength(expected,array);
+        int matchedLength = getMatchedLength(expected, array);
         Assert.assertEquals(matchedLength, newLength);
 
         array = new int[]{1};
         expected = new int[]{1};
-        newLength = RemoveDuplicatesSolution.removeDuplicates(array);
-        matchedLength = getMatchedLength(expected,array);
+        newLength = removeDuplicatesSolution.removeDuplicates(array);
+        matchedLength = getMatchedLength(expected, array);
         Assert.assertEquals(matchedLength, newLength);
 
         array = null;
         int expectedNum = 1;
-        newLength = RemoveDuplicatesSolution.removeDuplicates(array);
+        newLength = removeDuplicatesSolution.removeDuplicates(array);
         Assert.assertEquals(expectedNum, newLength);
     }
 
-    private int getMatchedLength(int[] expectedArray,int[] array){
+    private int getMatchedLength(int[] expectedArray, int[] array) {
         int matchedLength = 0;
         for (int i = 0; i < expectedArray.length; i++) {
             if (array[i] == expectedArray[i]) {

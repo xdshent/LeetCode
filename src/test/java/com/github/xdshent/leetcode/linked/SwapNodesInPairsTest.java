@@ -12,6 +12,7 @@ import java.util.List;
 public class SwapNodesInPairsTest {
 
     private SinglyLinkedNode head;
+    private SwapNodesInPairs swapNodesInPairs;
 
     @Before
     public void setUp() throws Exception {
@@ -27,6 +28,8 @@ public class SwapNodesInPairsTest {
         second.next = third;
         third.next = fourth;
         fourth.next = fifth;
+
+        swapNodesInPairs = new SwapNodesInPairs();
     }
 
     @After
@@ -35,27 +38,27 @@ public class SwapNodesInPairsTest {
 
     @Test
     public void swapPairs() {
-        SinglyLinkedNode result = SwapNodesInPairs.swapPairs(head);
+        SinglyLinkedNode result = swapNodesInPairs.swapPairs(head);
         Integer[] expected = new Integer[]{1, 0, 3, 2, 5, 4};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         head.next = new SinglyLinkedNode(10);
-        result = SwapNodesInPairs.swapPairs(head);
+        result = swapNodesInPairs.swapPairs(head);
         expected = new Integer[]{10, 0};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         head.next = new SinglyLinkedNode(1);
         head.next.next = new SinglyLinkedNode(2);
-        result = SwapNodesInPairs.swapPairs(head);
+        result = swapNodesInPairs.swapPairs(head);
         expected = new Integer[]{1, 0, 2};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         head.next = null;
-        result = SwapNodesInPairs.swapPairs(head);
+        result = swapNodesInPairs.swapPairs(head);
         expected = new Integer[]{0};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
-        result = SwapNodesInPairs.swapPairs(null);
+        result = swapNodesInPairs.swapPairs(null);
         expected = new Integer[]{};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
     }

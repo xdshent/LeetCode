@@ -22,7 +22,7 @@ public class FindTheDuplicateNumberSolution {
      * @param nums
      * @return
      */
-    public static int findDuplicate(int[] nums) {
+    public int findDuplicate(int[] nums) {
         if (nums == null || nums.length == 0 || nums.length == 1) {
             return -1;
         }

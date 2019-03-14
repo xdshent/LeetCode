@@ -11,6 +11,7 @@ import java.util.List;
 public class SpiralMatrixSolutionTest {
 
     private int[][] matrix;
+    private SpiralMatrixSolution spiralMatrixSolution;
 
     @Before
     public void setUp() throws Exception {
@@ -19,6 +20,8 @@ public class SpiralMatrixSolutionTest {
                 {5, 6, 7, 8},
                 {9, 10, 11, 12}
         };
+
+        spiralMatrixSolution = new SpiralMatrixSolution();
     }
 
     @After
@@ -28,44 +31,44 @@ public class SpiralMatrixSolutionTest {
 
     @Test
     public void spiralOrder() {
-        List<Integer> result = SpiralMatrixSolution.spiralOrder(matrix);
+        List<Integer> result = spiralMatrixSolution.spiralOrder(matrix);
         Assert.assertTrue(result.size() > 0);
 
         Integer[] expected = new Integer[]{1, 2, 3, 4, 8, 12, 11, 10, 9, 5, 6, 7};
         Assert.assertArrayEquals(expected, result.toArray(new Integer[0]));
 
         matrix = null;
-        result = SpiralMatrixSolution.spiralOrder(matrix);
+        result = spiralMatrixSolution.spiralOrder(matrix);
         Assert.assertTrue(result.size() == 0);
         Assert.assertEquals(Collections.emptyList(), result);
 
         matrix = new int[][]{};
-        result = SpiralMatrixSolution.spiralOrder(matrix);
+        result = spiralMatrixSolution.spiralOrder(matrix);
         Assert.assertTrue(result.size() == 0);
         Assert.assertEquals(Collections.emptyList(), result);
 
         matrix = new int[][]{{}};
         expected = new Integer[]{};
-        result = SpiralMatrixSolution.spiralOrder(matrix);
-        Assert.assertTrue(result.size()==0);
-        Assert.assertArrayEquals(expected,result.toArray(new Integer[0]));
+        result = spiralMatrixSolution.spiralOrder(matrix);
+        Assert.assertTrue(result.size() == 0);
+        Assert.assertArrayEquals(expected, result.toArray(new Integer[0]));
 
-        matrix = new int[][]{{2,5},{8,4},{0,-1}};
-        result = SpiralMatrixSolution.spiralOrder(matrix);
-        Assert.assertTrue(result.size()>0);
-        expected = new Integer[]{2,5,4,-1,0,8};
-        Assert.assertArrayEquals(expected,result.toArray(new Integer[0]));
+        matrix = new int[][]{{2, 5}, {8, 4}, {0, -1}};
+        result = spiralMatrixSolution.spiralOrder(matrix);
+        Assert.assertTrue(result.size() > 0);
+        expected = new Integer[]{2, 5, 4, -1, 0, 8};
+        Assert.assertArrayEquals(expected, result.toArray(new Integer[0]));
 
-        matrix = new int[][]{{1,2,3,4}};
-        expected = new Integer[]{1,2,3,4};
-        result = SpiralMatrixSolution.spiralOrder(matrix);
-        Assert.assertTrue(result.size()>0);
-        Assert.assertArrayEquals(expected,result.toArray(new Integer[0]));
+        matrix = new int[][]{{1, 2, 3, 4}};
+        expected = new Integer[]{1, 2, 3, 4};
+        result = spiralMatrixSolution.spiralOrder(matrix);
+        Assert.assertTrue(result.size() > 0);
+        Assert.assertArrayEquals(expected, result.toArray(new Integer[0]));
 
-        matrix = new int[][]{{1},{2},{3},{4}};
-        expected = new Integer[]{1,2,3,4};
-        result = SpiralMatrixSolution.spiralOrder(matrix);
-        Assert.assertTrue(result.size()>0);
-        Assert.assertArrayEquals(expected,result.toArray(new Integer[0]));
+        matrix = new int[][]{{1}, {2}, {3}, {4}};
+        expected = new Integer[]{1, 2, 3, 4};
+        result = spiralMatrixSolution.spiralOrder(matrix);
+        Assert.assertTrue(result.size() > 0);
+        Assert.assertArrayEquals(expected, result.toArray(new Integer[0]));
     }
 }

@@ -27,7 +27,7 @@ public class TwoSumSolution {
      * @param target
      * @return
      */
-    public static int[] twoSum(int[] nums, int target) {
+    public int[] twoSum(int[] nums, int target) {
         if (nums == null || nums.length == 0 || nums.length == 1) {
             return new int[]{};
         }
