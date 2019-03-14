@@ -33,7 +33,7 @@ public class RemoveNodeSolution {
      * @param n
      * @return
      */
-    public static SinglyLinkedNode removeNthFromEndFirst(SinglyLinkedNode head, int n) {
+    public SinglyLinkedNode removeNthFromEndFirst(SinglyLinkedNode head, int n) {
         if (head == null || n <= 0) {
             return head;
         }
@@ -77,7 +77,7 @@ public class RemoveNodeSolution {
      * @param n
      * @return
      */
-    public static SinglyLinkedNode removeNthFromEndSecond(SinglyLinkedNode head, int n) {
+    public SinglyLinkedNode removeNthFromEndSecond(SinglyLinkedNode head, int n) {
         if (head == null || n <= 0) {
             return head;
         }

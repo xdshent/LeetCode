@@ -29,7 +29,7 @@ public class SpiralMatrixSolution {
      * @param matrix
      * @return
      */
-    public static List<Integer> spiralOrder(int[][] matrix) {
+    public List<Integer> spiralOrder(int[][] matrix) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return Collections.emptyList();
         }

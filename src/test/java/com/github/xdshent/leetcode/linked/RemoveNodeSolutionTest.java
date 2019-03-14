@@ -13,7 +13,8 @@ import static org.junit.Assert.*;
 
 public class RemoveNodeSolutionTest {
 
-    SinglyLinkedNode head = null;
+    private SinglyLinkedNode head = null;
+    private RemoveNodeSolution removeNodeSolution;
 
     @Before
     public void setUp() throws Exception {
@@ -27,6 +28,8 @@ public class RemoveNodeSolutionTest {
         first.next = second;
         second.next = third;
         third.next = fourth;
+
+        removeNodeSolution = new RemoveNodeSolution();
     }
 
     @After
@@ -35,52 +38,52 @@ public class RemoveNodeSolutionTest {
 
     @Test
     public void removeNthFromEndFirst() {
-        SinglyLinkedNode result = RemoveNodeSolution.removeNthFromEndFirst(head, 2);
+        SinglyLinkedNode result = removeNodeSolution.removeNthFromEndFirst(head, 2);
 
         Integer[] expected = new Integer[]{1, 2, 3, 5};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{1, 2, 3, 5};
-        result = RemoveNodeSolution.removeNthFromEndFirst(head, 0);
+        result = removeNodeSolution.removeNthFromEndFirst(head, 0);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{1, 2, 3, 5};
-        result = RemoveNodeSolution.removeNthFromEndFirst(head, 0);
+        result = removeNodeSolution.removeNthFromEndFirst(head, 0);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
-        result = RemoveNodeSolution.removeNthFromEndFirst(head, 6);
+        result = removeNodeSolution.removeNthFromEndFirst(head, 6);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{1, 2, 3, 5};
-        result = RemoveNodeSolution.removeNthFromEndFirst(head, -1);
+        result = removeNodeSolution.removeNthFromEndFirst(head, -1);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{};
-        result = RemoveNodeSolution.removeNthFromEndFirst(null, 1);
+        result = removeNodeSolution.removeNthFromEndFirst(null, 1);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
     }
 
     @Test
     public void removeNthFromEndSecond() {
-        SinglyLinkedNode result = RemoveNodeSolution.removeNthFromEndSecond(head, 2);
+        SinglyLinkedNode result = removeNodeSolution.removeNthFromEndSecond(head, 2);
 
         Integer[] expected = new Integer[]{1, 2, 3, 5};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{1, 2, 3, 5};
-        result = RemoveNodeSolution.removeNthFromEndSecond(head, 0);
+        result = removeNodeSolution.removeNthFromEndSecond(head, 0);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{1, 2, 3, 5};
-        result = RemoveNodeSolution.removeNthFromEndSecond(head, 0);
+        result = removeNodeSolution.removeNthFromEndSecond(head, 0);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{1, 2, 3, 5};
-        result = RemoveNodeSolution.removeNthFromEndSecond(head, -1);
+        result = removeNodeSolution.removeNthFromEndSecond(head, -1);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         expected = new Integer[]{};
-        result = RemoveNodeSolution.removeNthFromEndSecond(null, 1);
+        result = removeNodeSolution.removeNthFromEndSecond(null, 1);
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
     }
 

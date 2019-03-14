@@ -27,7 +27,7 @@ public class SwapNodesInPairs {
      * @param head
      * @return
      */
-    public static SinglyLinkedNode swapPairs(SinglyLinkedNode head) {
+    public SinglyLinkedNode swapPairs(SinglyLinkedNode head) {
         if (head == null || head.next == null) {
             return head;
         }

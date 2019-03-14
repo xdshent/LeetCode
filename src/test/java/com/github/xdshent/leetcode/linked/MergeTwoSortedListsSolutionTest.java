@@ -13,6 +13,7 @@ public class MergeTwoSortedListsSolutionTest {
 
     private SinglyLinkedNode first;
     private SinglyLinkedNode second;
+    private MergeTwoSortedListsSolution mergeTwoSortedListsSolution;
 
     @Before
     public void setUp() throws Exception {
@@ -23,6 +24,8 @@ public class MergeTwoSortedListsSolutionTest {
         second = new SinglyLinkedNode(1);
         second.next = new SinglyLinkedNode(4);
         second.next.next = new SinglyLinkedNode(5);
+
+        mergeTwoSortedListsSolution = new MergeTwoSortedListsSolution();
     }
 
     @After
@@ -31,7 +34,7 @@ public class MergeTwoSortedListsSolutionTest {
 
     @Test
     public void mergeTwoLists() {
-        SinglyLinkedNode result = MergeTwoSortedListsSolution.mergeTwoLists(first, second);
+        SinglyLinkedNode result = mergeTwoSortedListsSolution.mergeTwoLists(first, second);
         Integer[] expected = new Integer[]{1, 1, 2, 3, 4, 5};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
@@ -39,7 +42,7 @@ public class MergeTwoSortedListsSolutionTest {
         second = new SinglyLinkedNode(2);
         second.next = new SinglyLinkedNode(3);
         second.next.next = new SinglyLinkedNode(4);
-        result = MergeTwoSortedListsSolution.mergeTwoLists(first, second);
+        result = mergeTwoSortedListsSolution.mergeTwoLists(first, second);
         expected = new Integer[]{1, 2, 3, 4};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
@@ -47,21 +50,21 @@ public class MergeTwoSortedListsSolutionTest {
         first.next = new SinglyLinkedNode(3);
         first.next.next = new SinglyLinkedNode(4);
         second = new SinglyLinkedNode(2);
-        result = MergeTwoSortedListsSolution.mergeTwoLists(first, second);
+        result = mergeTwoSortedListsSolution.mergeTwoLists(first, second);
         expected = new Integer[]{1, 2, 3, 4};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         first = new SinglyLinkedNode(1);
         first.next = new SinglyLinkedNode(2);
         first.next.next = new SinglyLinkedNode(3);
-        result = MergeTwoSortedListsSolution.mergeTwoLists(first, null);
+        result = mergeTwoSortedListsSolution.mergeTwoLists(first, null);
         expected = new Integer[]{1, 2, 3};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
 
         second = new SinglyLinkedNode(1);
         second.next = new SinglyLinkedNode(4);
         second.next.next = new SinglyLinkedNode(5);
-        result = MergeTwoSortedListsSolution.mergeTwoLists(null, second);
+        result = mergeTwoSortedListsSolution.mergeTwoLists(null, second);
         expected = new Integer[]{1, 4, 5};
         Assert.assertArrayEquals(expected, toList(result).toArray(new Integer[0]));
     }

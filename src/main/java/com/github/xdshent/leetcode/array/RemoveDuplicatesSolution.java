@@ -30,7 +30,7 @@ public class RemoveDuplicatesSolution {
      * @param nums
      * @return
      */
-    public static int removeDuplicates(int[] nums) {
+    public int removeDuplicates(int[] nums) {
         if (nums == null || nums.length == 1) {
             return 1;
         }

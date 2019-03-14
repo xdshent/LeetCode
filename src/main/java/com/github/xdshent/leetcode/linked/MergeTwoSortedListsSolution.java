@@ -29,7 +29,7 @@ public class MergeTwoSortedListsSolution {
      * @param l2
      * @return
      */
-    public static SinglyLinkedNode mergeTwoLists(SinglyLinkedNode l1, SinglyLinkedNode l2) {
+    public SinglyLinkedNode mergeTwoLists(SinglyLinkedNode l1, SinglyLinkedNode l2) {
         if (l1 == null) {
             return l2;
         }
