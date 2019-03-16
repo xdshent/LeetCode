@@ -25,3 +25,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ReverseIntegerSolution.java) | Easy |
+
+## Sliding Window
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](src/main/java/com/github/xdshent/leetcode/slidingwindow/SlidingWindowMaximumSolution.java) | Hard |
