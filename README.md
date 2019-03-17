@@ -30,3 +30,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](src/main/java/com/github/xdshent/leetcode/slidingwindow/SlidingWindowMaximumSolution.java) | Hard |
+
+## Stack
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/MinStackSolution.java) | Easy |
