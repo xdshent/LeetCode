@@ -36,3 +36,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | :------: |:------:| :------: | :------: |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/MinStackSolution.java) | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/QueueUsingStackSolution.java) | Easy |
+
+## Bit
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 192 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BitNumberSolution.java) | Easy |
