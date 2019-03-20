@@ -5,9 +5,9 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class MergeSortedArrayTest {
+public class MergeSortedArraySolutionTest {
 
-    private MergeSortedArray mergeSortedArray;
+    private MergeSortedArraySolution mergeSortedArray;
     private int[] nums1;
     private int[] nums2;
     private int m;
@@ -15,7 +15,7 @@ public class MergeSortedArrayTest {
 
     @Before
     public void setUp() throws Exception {
-        mergeSortedArray = new MergeSortedArray();
+        mergeSortedArray = new MergeSortedArraySolution();
         nums1 = new int[]{1, 2, 3, 0, 0, 0};
         nums2 = new int[]{2, 5, 6};
         m = 3;
