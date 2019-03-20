@@ -10,7 +10,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/main/java/com/github/xdshent/leetcode/array/TwoSumSolution.java) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Java](src/main/java/com/github/xdshent/leetcode/array/RemoveDuplicatesSolution.java) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MergeSortedArray.java) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MergeSortedArraySolution.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindTheDuplicateNumberSolution.java) | Medium |
 
 ## Linked

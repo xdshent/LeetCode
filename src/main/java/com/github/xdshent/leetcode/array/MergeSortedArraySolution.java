@@ -17,7 +17,7 @@ package com.github.xdshent.leetcode.array;
  *
  * @author xdshen
  */
-public class MergeSortedArray {
+public class MergeSortedArraySolution {
 
     /**
      * Time Complexity: O(N)
