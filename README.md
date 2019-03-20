@@ -43,3 +43,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | 192 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BitNumberSolution.java) | Easy |
+
+## String
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ToLowerCaseSolution.java) | Easy |
