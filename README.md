@@ -12,6 +12,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Java](src/main/java/com/github/xdshent/leetcode/array/SearchInsertPositionSolution.java) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MergeSortedArraySolution.java) | Easy |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MissingNumberSolution.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindTheDuplicateNumberSolution.java) | Medium |
 
 ## Linked
@@ -21,6 +22,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveNodeSolution.java) | Medium |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MergeTwoSortedListsSolution.java) | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/SwapNodesInPairs.java) | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/LinkedListCycleSolution.java) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/ReverseLinkedListSolution.java) | Easy |
 
 ## Math
@@ -42,7 +44,9 @@ Data structure and algorithms practice in Java, will be continuously updated.
 ## Bit
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/SingleNumberSolution.java) | Easy |
 | 192 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BitNumberSolution.java) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/PowerOfTwoSolution.java) | Easy |
 
 ## String
 | # | Title| Solution | Difficult |
