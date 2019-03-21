@@ -12,6 +12,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Java](src/main/java/com/github/xdshent/leetcode/array/SearchInsertPositionSolution.java) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MergeSortedArraySolution.java) | Easy |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MissingNumberSolution.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindTheDuplicateNumberSolution.java) | Medium |
 
 ## Linked
