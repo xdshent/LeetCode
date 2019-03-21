@@ -29,6 +29,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ReverseIntegerSolution.java) | Easy |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PalindromeNumberSolution.java) | Easy |
 
 ## Sliding Window
 | # | Title| Solution | Difficult |
