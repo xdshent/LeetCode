@@ -45,6 +45,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | :------: |:------:| :------: | :------: |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/SingleNumberSolution.java) | Easy |
 | 192 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BitNumberSolution.java) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/PowerOfTwoSolution.java) | Easy |
 
 ## String
 | # | Title| Solution | Difficult |
