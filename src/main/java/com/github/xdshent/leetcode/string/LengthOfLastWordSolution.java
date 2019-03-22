@@ -23,7 +23,7 @@ public class LengthOfLastWordSolution {
      * @return
      */
     public int lengthOfLastWord(String s) {
-        if (s == null || toString().length() == 0) {
+        if (s == null || s.length() == 0) {
             return 0;
         }
 
