@@ -36,7 +36,7 @@ public class ToLowerCaseSolution {
         char[] strCharArray = str.toCharArray();
         for (int i = 0; i < strCharArray.length; i++) {
             if ((int) strCharArray[i] >= 65
-                    && (int) strCharArray[i] <= 91) {
+                    && (int) strCharArray[i] <= 90) {
                 strCharArray[i] += 32;
             }
         }
