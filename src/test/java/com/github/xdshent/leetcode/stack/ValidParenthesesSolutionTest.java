@@ -27,19 +27,19 @@ public class ValidParenthesesSolutionTest {
         boolean result = validParenthesesSolution.isValid(str);
         Assert.assertTrue(result);
 
-        str = "()";
+        str = null;
         result = validParenthesesSolution.isValid(str);
-        Assert.assertTrue(result);
+        Assert.assertFalse(result);
 
         str = ")";
         result = validParenthesesSolution.isValid(str);
         Assert.assertFalse(result);
 
-        str = "()[}";
+        str = "()";
         result = validParenthesesSolution.isValid(str);
-        Assert.assertFalse(result);
+        Assert.assertTrue(result);
 
-        str = null;
+        str = "()[}";
         result = validParenthesesSolution.isValid(str);
         Assert.assertFalse(result);
 
@@ -48,6 +48,18 @@ public class ValidParenthesesSolutionTest {
         Assert.assertTrue(result);
 
         str = "([(}])";
+        result = validParenthesesSolution.isValid(str);
+        Assert.assertFalse(result);
+
+        str = "(]";
+        result = validParenthesesSolution.isValid(str);
+        Assert.assertFalse(result);
+
+        str = ")}";
+        result = validParenthesesSolution.isValid(str);
+        Assert.assertFalse(result);
+
+        str = "({";
         result = validParenthesesSolution.isValid(str);
         Assert.assertFalse(result);
     }
