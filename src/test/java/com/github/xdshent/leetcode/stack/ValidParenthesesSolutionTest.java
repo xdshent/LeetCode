@@ -49,6 +49,6 @@ public class ValidParenthesesSolutionTest {
 
         str = "([(}])";
         result = validParenthesesSolution.isValid(str);
-        Assert.assertTrue(result);
+        Assert.assertFalse(result);
     }
 }
