@@ -52,4 +52,5 @@ Data structure and algorithms practice in Java, will be continuously updated.
 ## String
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongestCommonPrefixSolution.java) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ToLowerCaseSolution.java) | Easy |
