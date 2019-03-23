@@ -25,6 +25,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MergeTwoSortedListsSolution.java) | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/SwapNodesInPairs.java) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/LinkedListCycleSolution.java) | Easy |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/InsertionSortListSolution.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/ReverseLinkedListSolution.java) | Easy |
 
 ## Math
@@ -57,4 +58,5 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | :------: |:------:| :------: | :------: |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongestCommonPrefixSolution.java) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LengthOfLastWordSolution.java) | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSolution.java) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ToLowerCaseSolution.java) | Easy |
