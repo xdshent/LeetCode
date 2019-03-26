@@ -40,6 +40,9 @@ public class FindTheDuplicateNumberSolution {
     }
 
     /**
+     * Time Complexity: O(N logN)
+     * Space Complexity: O(1)
+     *
      * @param nums
      * @return
      */
