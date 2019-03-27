@@ -29,6 +29,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/LinkedListCycleSolution.java) | Easy |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/InsertionSortListSolution.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/ReverseLinkedListSolution.java) | Easy |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MiddleOfTheLinkedListSolution.java) | Easy |
 
 ## Math
 | # | Title| Solution | Difficult |
