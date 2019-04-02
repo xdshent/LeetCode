@@ -32,6 +32,11 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/ReverseLinkedListSolution.java) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MiddleOfTheLinkedListSolution.java) | Easy |
 
+## Sort
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| # | Bubble Sort|[Java](src/main/java/com/github/xdshent/leetcode/sort/BubbleSortSolution.java) | Easy |
+
 ## Math
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
