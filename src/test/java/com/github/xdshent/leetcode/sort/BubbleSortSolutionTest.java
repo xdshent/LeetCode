@@ -28,7 +28,7 @@ public class BubbleSortSolutionTest {
 
     @Test
     public void sort() {
-        int[] temp = array;
+        int[] temp = Arrays.copyOf(array, array.length);
         Arrays.sort(temp);
         bubbleSortSolution.sort(array);
         Assert.assertArrayEquals(temp, array);
