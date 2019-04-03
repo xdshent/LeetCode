@@ -36,6 +36,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | # | Bubble Sort|[Java](src/main/java/com/github/xdshent/leetcode/sort/BubbleSortSolution.java) | Easy |
+| # | Insert Sort|[Java](src/main/java/com/github/xdshent/leetcode/sort/InsertSortSolution.java) | Easy |
 
 ## Math
 | # | Title| Solution | Difficult |
