@@ -41,6 +41,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Merge Sort|[Java](src/main/java/com/github/xdshent/leetcode/sort/MergeSortSolution.java) | Easy |
 | # | Quick Sort|[Java](src/main/java/com/github/xdshent/leetcode/sort/QuickSortSolution.java) | Easy |
 | # | Count Sort|[Java](src/main/java/com/github/xdshent/leetcode/sort/CountSortSolution.java) | Easy |
+| # | Heap Sort|[Java](src/main/java/com/github/xdshent/leetcode/sort/HeapSortSolution.java) | Easy |
 
 ## Math
 | # | Title| Solution | Difficult |
