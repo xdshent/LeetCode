@@ -8,6 +8,9 @@ package com.github.xdshent.leetcode.sort;
 public class CountSortSolution {
 
     /**
+     * Time Complexity: O(N+K)
+     * Space Complexity: O(N)
+     *
      * @param array
      */
     public void sort(int[] array) {
