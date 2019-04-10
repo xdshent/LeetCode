@@ -51,6 +51,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 25 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](src/main/java/com/github/xdshent/leetcode/math/SqrtSolution.java) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/)|[Java](src/main/java/com/github/xdshent/leetcode/math/AddBinarySolution.java) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ExcelSheetColumnTitleSolution.java) | Easy |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ExcelSheetColumnNumberSolution.java) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)|[Java](src/main/java/com/github/xdshent/leetcode/math/AddDigitsSolution.java) | Easy |
 
 ## Sliding Window
