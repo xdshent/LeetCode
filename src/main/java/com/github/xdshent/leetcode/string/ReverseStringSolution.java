@@ -29,7 +29,8 @@ public class ReverseStringSolution {
      * @param s
      */
     public void reverseString(char[] s) {
-        if (s == null || s.length < 2) {
+        int minLength = 2;
+        if (s == null || s.length < minLength) {
             return;
         }
 
