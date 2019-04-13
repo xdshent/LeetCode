@@ -82,5 +82,5 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LengthOfLastWordSolution.java) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSolution.java) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringSolution.java) | Easy |
-| 344 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringIISolution.java) | Easy |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringIISolution.java) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ToLowerCaseSolution.java) | Easy |
