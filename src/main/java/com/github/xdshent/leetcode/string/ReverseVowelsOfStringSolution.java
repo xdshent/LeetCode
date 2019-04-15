@@ -29,8 +29,8 @@ public class ReverseVowelsOfStringSolution {
             return s;
         }
 
-        char[] chars = s.toCharArray();
         int left = 0;
+        char[] chars = s.toCharArray();
         int right = chars.length - 1;
 
         while (left < right) {

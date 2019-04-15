@@ -18,7 +18,7 @@ package com.github.xdshent.leetcode.string;
  *
  * @author xdshen
  */
-public class ReverseStringIISolution {
+public class ReverseStringTwoSolution {
 
     /**
      * Time Complexity: O(N^2)

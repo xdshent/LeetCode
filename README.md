@@ -18,6 +18,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MissingNumberSolution.java) | Easy |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MissingNumberSolution.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MoveZerosSolution.java) | Easy |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ArrayPartitionOneSolution.java) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SortArrayByParitySolution.java) | Easy |
 
 ## Linked

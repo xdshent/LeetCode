@@ -23,23 +23,23 @@ public class SortArrayByParitySolution {
      * Time Complexity: O(N)
      * Space Complexity: O(1)
      *
-     * @param A
+     * @param array
      * @return
      */
-    public int[] sortArrayByParity(int[] A) {
-        if (A == null || A.length == 1) {
-            return A;
+    public int[] sortArrayByParity(int[] array) {
+        if (array == null || array.length == 1) {
+            return array;
         }
 
         int evenIndex = 0;
-        for (int i = 0; i < A.length; i++) {
-            if ((A[i] & 1) == 0) {
-                int temp = A[i];
-                A[i] = A[evenIndex];
-                A[evenIndex] = temp;
+        for (int i = 0; i < array.length; i++) {
+            if ((array[i] & 1) == 0) {
+                int temp = array[i];
+                array[i] = array[evenIndex];
+                array[evenIndex] = temp;
                 evenIndex++;
             }
         }
-        return A;
+        return array;
     }
 }
