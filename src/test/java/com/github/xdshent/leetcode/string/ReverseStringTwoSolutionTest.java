@@ -5,14 +5,14 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class ReverseStringIISolutionTest {
+public class ReverseStringTwoSolutionTest {
 
-    private ReverseStringIISolution reverseStringIISolution;
+    private ReverseStringTwoSolution reverseStringIISolution;
     private String s;
 
     @Before
     public void setUp() throws Exception {
-        reverseStringIISolution = new ReverseStringIISolution();
+        reverseStringIISolution = new ReverseStringTwoSolution();
         s = "abcdefg";
     }
 
