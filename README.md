@@ -84,5 +84,6 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSolution.java) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringSolution.java) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseVowelsOfStringSolution.java) | Easy |
-| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringIISolution.java) | Easy |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringTwoSolution.java) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ToLowerCaseSolution.java) | Easy |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseOnlyLettersSolution.java) | Easy |
