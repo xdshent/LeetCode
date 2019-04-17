@@ -74,6 +74,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/ReverseBitsSolution.java) | Easy |
 | 192 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BitNumberSolution.java) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/PowerOfTwoSolution.java) | Easy |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BinaryWithAlternatingBitsSolution.java) | Easy |
 
 ## String
 | # | Title| Solution | Difficult |
