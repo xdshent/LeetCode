@@ -26,6 +26,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/AddTwoNumbersSolution.java) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveNodeSolution.java) | Medium |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MergeTwoSortedListsSolution.java) | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/SwapNodesInPairs.java) | Medium |
