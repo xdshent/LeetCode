@@ -50,6 +50,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ReverseIntegerSolution.java) | Easy |
+| 8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](src/main/java/com/github/xdshent/leetcode/math/StringToIntegerSolution.java) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PalindromeNumberSolution.java) | Easy |
 | 25 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](src/main/java/com/github/xdshent/leetcode/math/SqrtSolution.java) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/)|[Java](src/main/java/com/github/xdshent/leetcode/math/AddBinarySolution.java) | Easy |
