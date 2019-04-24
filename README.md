@@ -95,4 +95,6 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseOnlyLettersSolution.java) | Easy |
 
 ## Dynamic Programming
-| 70 | [Reverse Only Letters](https://leetcode.com/problems/climbing-stairs/)|[Java](src/main/java/com/github/xdshent/leetcode/dp/ClimbingStairsSolution.java) | Easy |
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](src/main/java/com/github/xdshent/leetcode/dp/ClimbingStairsSolution.java) | Easy |
