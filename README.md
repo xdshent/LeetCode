@@ -57,6 +57,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/)|[Java](src/main/java/com/github/xdshent/leetcode/math/AddBinarySolution.java) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ExcelSheetColumnTitleSolution.java) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ExcelSheetColumnNumberSolution.java) | Easy |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/HappyNumberSolution.java) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)|[Java](src/main/java/com/github/xdshent/leetcode/math/AddDigitsSolution.java) | Easy |
 
 ## Sliding Window
