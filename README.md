@@ -16,6 +16,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)|[Java](src/main/java/com/github/xdshent/leetcode/array/PlusOneSolution.java) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MergeSortedArraySolution.java) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/RotateArraySolution.java) | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ContainsDuplicateSolution.java) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MissingNumberSolution.java) | Easy |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MissingNumberSolution.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MoveZerosSolution.java) | Easy |
