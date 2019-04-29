@@ -103,3 +103,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](src/main/java/com/github/xdshent/leetcode/dp/ClimbingStairsSolution.java) | Easy |
+
+## Hash Table
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 290 | [Climbing Stairs](https://leetcode.com/problems/word-pattern/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/WordPatternSolution.java) | Easy |
