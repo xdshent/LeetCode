@@ -107,4 +107,5 @@ Data structure and algorithms practice in Java, will be continuously updated.
 ## Hash Table
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/ValidAnagramSolution.java) | Easy |
 | 290 | [Climbing Stairs](https://leetcode.com/problems/word-pattern/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/WordPatternSolution.java) | Easy |
