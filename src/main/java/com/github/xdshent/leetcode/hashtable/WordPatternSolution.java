@@ -25,6 +25,8 @@ import java.util.Map;
  * Notes:
  * You may assume pattern contains only lowercase letters, and str
  * contains lowercase letters that may be separated by a single space.
+ *
+ * @author xdshen
  */
 public class WordPatternSolution {
 
