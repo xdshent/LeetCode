@@ -34,6 +34,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveDuplicatesFromSortedListSolution.java) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/LinkedListCycleSolution.java) | Easy |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/InsertionSortListSolution.java) | Medium |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveLinkedListElementsSolution.java) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/ReverseLinkedListSolution.java) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MiddleOfTheLinkedListSolution.java) | Easy |
 
