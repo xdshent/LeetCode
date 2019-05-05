@@ -21,6 +21,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MissingNumberSolution.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MoveZerosSolution.java) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ArrayPartitionOneSolution.java) | Easy |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ShortestUnsortedSubarraySolution.java) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindPivotIndexSolution.java) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SortArrayByParitySolution.java) | Easy |
 
