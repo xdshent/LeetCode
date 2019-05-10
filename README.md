@@ -10,6 +10,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/main/java/com/github/xdshent/leetcode/array/TwoSumSolution.java) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Java](src/main/java/com/github/xdshent/leetcode/array/RemoveDuplicatesSolution.java) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)|[Java](src/main/java/com/github/xdshent/leetcode/array/RemoveElementSolution.java) | Easy |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SearchInRotatedSortedArraySolution.java) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Java](src/main/java/com/github/xdshent/leetcode/array/SearchInsertPositionSolution.java) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaximumSubarraySolution.java) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
