@@ -27,6 +27,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ShortestUnsortedSubarraySolution.java) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindPivotIndexSolution.java) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SortArrayByParitySolution.java) | Easy |
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SortArrayByParitySecondSolution.java) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SquaresOfSortedArraySolution.java) | Easy |
 
 ## Linked
