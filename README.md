@@ -102,6 +102,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSolution.java) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringSolution.java) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseVowelsOfStringSolution.java) | Easy |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/)|[Java](src/main/java/com/github/xdshent/leetcode/string/AddStringsSolution.java) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringTwoSolution.java) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringThreeSolution.java) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSecondSolution.java) | Easy |
