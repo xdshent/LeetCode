@@ -72,6 +72,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)|[Java](src/main/java/com/github/xdshent/leetcode/math/AddDigitsSolution.java) | Easy |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/UglyNumberSolution.java) | Easy |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PowerOfThreeSolution.java) | Easy |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PowerOfFourSolution.java) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ValidPerfectSquareSolution.java) | Easy |
 
 ## Sliding Window
