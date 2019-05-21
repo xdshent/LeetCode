@@ -97,6 +97,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 192 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BitNumberSolution.java) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/PowerOfTwoSolution.java) | Easy |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/SumOfTwoIntegersSolution.java) | Easy |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/NumberComplementSolution.java) | Easy |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Java](src/main/java/com/github/xdshent/leetcode/bit/BinaryWithAlternatingBitsSolution.java) | Easy |
 
 ## String
