@@ -16,6 +16,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)|[Java](src/main/java/com/github/xdshent/leetcode/array/PlusOneSolution.java) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MergeSortedArraySolution.java) | Easy |
+| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](src/main/java/com/github/xdshent/leetcode/array/TwoSumSecondSolution.java) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MajorityElementSolution.java) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/RotateArraySolution.java) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ContainsDuplicateSolution.java) | Easy |
