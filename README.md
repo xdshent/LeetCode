@@ -26,6 +26,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MoveZerosSolution.java) | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](src/main/java/com/github/xdshent/leetcode/array/IntersectionOfTwoArraysSolution.java) | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/array/IntersectionOfTwoArraysSecondSolution.java) | Easy |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ThirdMaximumNumberSolution.java) | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaxConsecutiveOnesSolution.java) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FibonacciNumberSolution.java) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ArrayPartitionOneSolution.java) | Easy |
