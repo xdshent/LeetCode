@@ -36,6 +36,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SortArrayByParitySolution.java) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SortArrayByParitySecondSolution.java) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SquaresOfSortedArraySolution.java) | Easy |
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/array/AddToArrayFromOfIntegerSolution.java) | Easy |
 
 ## Linked
 
