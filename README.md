@@ -127,6 +127,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ToLowerCaseSolution.java) | Easy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Java](src/main/java/com/github/xdshent/leetcode/string/BuddyStringsSolution.java) | Easy |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseOnlyLettersSolution.java) | Easy |
+| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongPressedNameSolution.java) | Easy |
 
 ## Dynamic Programming
 | # | Title| Solution | Difficult |
