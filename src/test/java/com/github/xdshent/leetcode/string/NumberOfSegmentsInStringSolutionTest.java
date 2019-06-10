@@ -31,7 +31,7 @@ public class NumberOfSegmentsInStringSolutionTest {
         expected = 1;
         Assert.assertEquals(expected, result);
 
-        s = " Hello, my  name  is John ";
+        s = " Hello,  my  name  is John ";
         result = numberOfSegmentsInStringSolution.countSegments(s);
         expected = 5;
         Assert.assertEquals(expected, result);
