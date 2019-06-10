@@ -22,15 +22,12 @@ public class NumberOfSegmentsInStringSolution {
      * @return
      */
     public int countSegments(String s) {
-        if (s == null) {
+        if (s == null || s.trim().length() == 0) {
             return 0;
         }
 
-        s = s.trim();
-        int length = s.length();
-
-        if (length == 0 || length == 1) {
-            return length;
+        if (s.trim().length() == 1) {
+            return 1;
         }
 
         int segmentCount = 0;
