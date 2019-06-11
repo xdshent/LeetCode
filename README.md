@@ -112,6 +112,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 ## String
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/string/RomanToIntegerSolution.java) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongestCommonPrefixSolution.java) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ImplementStrStrSolution.java) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LengthOfLastWordSolution.java) | Easy |
