@@ -85,6 +85,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PowerOfFourSolution.java) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ValidPerfectSquareSolution.java) | Easy |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/)|[Java](src/main/java/com/github/xdshent/leetcode/math/Base7Solution.java) | Easy |
+| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PowerfulIntegersSolution.java) | Easy |
 
 ## Sliding Window
 | # | Title| Solution | Difficult |
