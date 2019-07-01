@@ -125,7 +125,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseWordsInStringSolution.java) | Medium |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringSolution.java) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseVowelsOfStringSolution.java) | Easy |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/FirstUniqueCharacterInAStringSolution.java) | Easy |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](src/main/java/com/github/xdshent/leetcode/string/RansomNoteSolution.java) | Easy |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/FirstUniqueCharacterInStringSolution.java) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/)|[Java](src/main/java/com/github/xdshent/leetcode/string/AddStringsSolution.java) | Easy |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/NumberOfSegmentsInStringSolution.java) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringTwoSolution.java) | Easy |
