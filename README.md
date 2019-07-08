@@ -136,6 +136,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSecondSolution.java) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ToLowerCaseSolution.java) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/)|[Java](src/main/java/com/github/xdshent/leetcode/string/MostCommonWordSolution.java) | Easy |
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/)|[Java](src/main/java/com/github/xdshent/leetcode/string/GoatLatinSolution.java) | Easy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Java](src/main/java/com/github/xdshent/leetcode/string/BuddyStringsSolution.java) | Easy |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseOnlyLettersSolution.java) | Easy |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongPressedNameSolution.java) | Easy |
