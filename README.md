@@ -89,6 +89,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ValidPerfectSquareSolution.java) | Easy |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/)|[Java](src/main/java/com/github/xdshent/leetcode/math/Base7Solution.java) | Easy |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/math/SumOfSquareNumbersSolution.java) | Easy |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/math/SelfDividingNumbersSolution.java) | Easy |
 | 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PowerfulIntegersSolution.java) | Easy |
 
 ## Sliding Window
