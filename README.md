@@ -40,6 +40,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ValidMountainArraySolution.java) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SquaresOfSortedArraySolution.java) | Easy |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/array/AddToArrayFromOfIntegerSolution.java) | Easy |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindCommonCharactersSolution.java) | Easy |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Java](src/main/java/com/github/xdshent/leetcode/array/PartitionArrayIntoThreePartsWithEqualSumSolution.java) | Easy |
 | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FixedPointSolution.java) | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java](src/main/java/com/github/xdshent/leetcode/array/DuplicateZerosSolution.java) | Easy |
