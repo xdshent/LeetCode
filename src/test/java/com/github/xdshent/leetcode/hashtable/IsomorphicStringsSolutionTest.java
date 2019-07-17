@@ -37,8 +37,13 @@ public class IsomorphicStringsSolutionTest {
         result = isomorphicStringsSolution.isIsomorphic(s, t);
         Assert.assertTrue(result);
 
-        s = "paoer";
+        s = "paler";
         t = "title";
+        result = isomorphicStringsSolution.isIsomorphic(s, t);
+        Assert.assertFalse(result);
+
+        s = "title";
+        t = "paler";
         result = isomorphicStringsSolution.isIsomorphic(s, t);
         Assert.assertFalse(result);
 

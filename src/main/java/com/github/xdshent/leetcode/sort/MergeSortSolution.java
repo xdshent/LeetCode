@@ -63,8 +63,6 @@ public class MergeSortSolution {
             temp[k++] = array[j++];
         }
 
-        if (k >= 0){
-            System.arraycopy(temp, 0, array, left, k);
-        }
+        System.arraycopy(temp, 0, array, left, k);
     }
 }

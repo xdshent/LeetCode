@@ -33,6 +33,10 @@ public class MergeSortSolutionTest {
         mergeSortSolution.mergeSort(array);
         Assert.assertArrayEquals(temp, array);
 
+        array = new int[]{1, 2, 3, 4, 5, 6, 7};
+        mergeSortSolution.mergeSort(array);
+        Assert.assertArrayEquals(array, array);
+
         array = new int[]{};
         mergeSortSolution.mergeSort(array);
         Assert.assertArrayEquals(array, array);
