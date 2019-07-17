@@ -46,9 +46,9 @@ public class MergeSortSolution {
         int j = mid + 1;
         int k = 0;
 
-        int[] temp = new int[array.length];
+        int[] temp = new int[right - left + 1];
         while (i <= mid && j <= right) {
-            if (array[i] < array[j]) {
+            if (array[i] <= array[j]) {
                 temp[k++] = array[i++];
             } else {
                 temp[k++] = array[j++];
@@ -63,8 +63,6 @@ public class MergeSortSolution {
             temp[k++] = array[j++];
         }
 
-        for (int l = 0; l < k; l++) {
-            array[left + l] = temp[l];
-        }
+        System.arraycopy(temp, 0, array, left, k);
     }
 }
