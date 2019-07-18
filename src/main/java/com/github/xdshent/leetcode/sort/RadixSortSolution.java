@@ -23,7 +23,6 @@ public class RadixSortSolution {
         int exp;
         int max = getMax(array);
 
-
         for (exp = 1; max / exp > 0; exp *= RADIX) {
             countSort(array, exp);
         }
