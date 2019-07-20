@@ -94,6 +94,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/math/SumOfSquareNumbersSolution.java) | Easy |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/math/SelfDividingNumbersSolution.java) | Easy |
 | 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PowerfulIntegersSolution.java) | Easy |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ComplementOfBase10IntegerSolution.java) | Easy |
 
 ## Sliding Window
 | # | Title| Solution | Difficult |
