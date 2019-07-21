@@ -85,6 +85,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/ExcelSheetColumnNumberSolution.java) | Easy |
 | 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](src/main/java/com/github/xdshent/leetcode/math/FactorialTrailingZeroesSolution.java) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/HappyNumberSolution.java) | Easy |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/)|[Java](src/main/java/com/github/xdshent/leetcode/math/CountPrimesSolution.java) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)|[Java](src/main/java/com/github/xdshent/leetcode/math/AddDigitsSolution.java) | Easy |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](src/main/java/com/github/xdshent/leetcode/math/UglyNumberSolution.java) | Easy |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](src/main/java/com/github/xdshent/leetcode/math/PowerOfThreeSolution.java) | Easy |
