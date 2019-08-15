@@ -162,6 +162,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/ValidAnagramSolution.java) | Easy |
 | 290 | [Climbing Stairs](https://leetcode.com/problems/word-pattern/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/WordPatternSolution.java) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/LongestPalindromeSolution.java) | Easy |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/DistributeCandiesSolution.java) | Easy |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/MinimumIndexSumOfTwoListsSolution.java) | Easy |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/UncommonWordsFromTwoSentencesSolution.java) | Easy |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/OccurrencesAfterBigramSolution.java) | Easy |
