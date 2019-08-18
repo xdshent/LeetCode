@@ -28,6 +28,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MoveZerosSolution.java) | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](src/main/java/com/github/xdshent/leetcode/array/IntersectionOfTwoArraysSolution.java) | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/array/IntersectionOfTwoArraysSecondSolution.java) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](src/main/java/com/github/xdshent/leetcode/array/IsSubsequenceSolution.java) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ThirdMaximumNumberSolution.java) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindAllNumbersDisappearedSolution.java) | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaxConsecutiveOnesSolution.java) | Easy |
