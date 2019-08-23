@@ -35,6 +35,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FibonacciNumberSolution.java) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ArrayPartitionOneSolution.java) | Easy |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ShortestUnsortedSubarraySolution.java) | Easy |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaximumProductOfThreeNumbersSolution.java) | Easy |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/NonDecreasingArraySolution.java) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindPivotIndexSolution.java) | Easy |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindSmallestLetterGreaterThanTargetSolution.java) | Easy |
