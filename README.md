@@ -143,6 +143,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/)|[Java](src/main/java/com/github/xdshent/leetcode/string/AddStringsSolution.java) | Easy |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Java](src/main/java/com/github/xdshent/leetcode/string/NumberOfSegmentsInStringSolution.java) | Easy |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/)|[Java](src/main/java/com/github/xdshent/leetcode/string/StringCompressionSolution.java) | Easy |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Java](src/main/java/com/github/xdshent/leetcode/string/RepeatedSubstringPatternSolution.java) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringTwoSolution.java) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseStringThreeSolution.java) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSecondSolution.java) | Easy |
