@@ -155,6 +155,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Java](src/main/java/com/github/xdshent/leetcode/string/BuddyStringsSolution.java) | Easy |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ReverseOnlyLettersSolution.java) | Easy |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongPressedNameSolution.java) | Easy |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](src/main/java/com/github/xdshent/leetcode/string/DefangingAnIPAddressSolution.java) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](src/main/java/com/github/xdshent/leetcode/string/GreatestCommonDivisorOfStringsSolution.java) | Easy |
 
 ## Dynamic Programming
