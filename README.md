@@ -131,6 +131,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 ## String
 | # | Title| Solution | Difficult |
 | :------: |:------:| :------: | :------: |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongestSubstringWithoutRepeatingCharactersSolution.java) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/string/RomanToIntegerSolution.java) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongestCommonPrefixSolution.java) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ImplementStrStrSolution.java) | Easy |
