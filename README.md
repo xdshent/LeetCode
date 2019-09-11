@@ -15,6 +15,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SearchInRotatedSortedArraySolution.java) | Easy |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindFirstAndLastPositionOfElementInSortedArraySolution.java) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Java](src/main/java/com/github/xdshent/leetcode/array/SearchInsertPositionSolution.java) | Easy |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](src/main/java/com/github/xdshent/leetcode/array/TrappingRainWaterSolution.java) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaximumSubarraySolution.java) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)|[Java](src/main/java/com/github/xdshent/leetcode/array/PlusOneSolution.java) | Easy |
