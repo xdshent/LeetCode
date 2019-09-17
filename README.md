@@ -36,6 +36,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindAllNumbersDisappearedSolution.java) | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaxConsecutiveOnesSolution.java) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FibonacciNumberSolution.java) | Easy |
+| 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/DiffPairsInAnArraySolution.java) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ArrayPartitionOneSolution.java) | Easy |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](src/main/java/com/github/xdshent/leetcode/array/ShortestUnsortedSubarraySolution.java) | Easy |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaximumProductOfThreeNumbersSolution.java) | Easy |
