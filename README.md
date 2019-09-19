@@ -63,6 +63,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/AddTwoNumbersSolution.java) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveNodeSolution.java) | Medium |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MergeTwoSortedListsSolution.java) | Easy |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/MergeSortedListsSolution.java) | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/SwapNodesInPairs.java) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/RemoveDuplicatesFromSortedListSolution.java) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](src/main/java/com/github/xdshent/leetcode/linked/LinkedListCycleSolution.java) | Easy |
