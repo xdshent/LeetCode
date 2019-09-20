@@ -119,8 +119,9 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | :------: |:------:| :------: | :------: |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/ValidParenthesesSolution.java) | Easy |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/MinStackSolution.java) | Easy |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/ImplementStackUsing****QueuesSolution.java) | Easy |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/ImplementStackUsingQueuesSolution.java) | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/QueueUsingStackSolution.java) | Easy |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/BackspaceStringCompareSolution.java) | Easy |
 
 ## Bit
 | # | Title| Solution | Difficult |
