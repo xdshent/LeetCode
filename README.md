@@ -121,6 +121,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/MinStackSolution.java) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/ImplementStackUsingQueuesSolution.java) | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/QueueUsingStackSolution.java) | Easy |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/NextGreaterElementSolution.java) | Easy |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/BackspaceStringCompareSolution.java) | Easy |
 
 ## Bit
