@@ -37,6 +37,11 @@ public class BasicCalculatorSolutionTest {
         expected = 23;
         assertEquals(expected, result);
 
+        s = "1-3+6-(7+6-1)";
+        result = basicCalculatorSolution.calculate(s);
+        expected = -8;
+        assertEquals(expected, result);
+
         s = "";
         result = basicCalculatorSolution.calculate(s);
         expected = 0;
