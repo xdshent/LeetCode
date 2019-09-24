@@ -119,6 +119,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | :------: |:------:| :------: | :------: |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/ValidParenthesesSolution.java) | Easy |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/MinStackSolution.java) | Easy |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/BasicCalculatorSolution.java) | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/ImplementStackUsingQueuesSolution.java) | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/QueueUsingStackSolution.java) | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/NextGreaterElementSolution.java) | Easy |
