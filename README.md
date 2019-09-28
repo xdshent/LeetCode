@@ -144,6 +144,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongestSubstringWithoutRepeatingCharactersSolution.java) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](src/main/java/com/github/xdshent/leetcode/string/RomanToIntegerSolution.java) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LongestCommonPrefixSolution.java) | Easy |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LetterCombinationsOfPhoneNumberSolution.java) | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ImplementStrStrSolution.java) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](src/main/java/com/github/xdshent/leetcode/string/LengthOfLastWordSolution.java) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](src/main/java/com/github/xdshent/leetcode/string/ValidPalindromeSolution.java) | Easy |
