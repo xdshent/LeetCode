@@ -125,6 +125,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/NextGreaterElementSolution.java) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/BaseballGameSolution.java) | Easy |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/BackspaceStringCompareSolution.java) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](src/main/java/com/github/xdshent/leetcode/stack/RemoveAllAdjacentDuplicatesInStringSolution.java) | Easy |
 
 ## Bit
 | # | Title| Solution | Difficult |
