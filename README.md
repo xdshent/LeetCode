@@ -189,3 +189,8 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/UncommonWordsFromTwoSentencesSolution.java) | Easy |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/OccurrencesAfterBigramSolution.java) | Easy |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](src/main/java/com/github/xdshent/leetcode/hashtable/UniqueNumberOfOccurrencesSolution.java) | Easy |
+
+## Backtracking
+| # | Title| Solution | Difficult |
+| :------: |:------:| :------: | :------: |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Java](src/main/java/com/github/xdshent/leetcode/backtracking/LetterCasePermutationSolution.java) | Easy |
