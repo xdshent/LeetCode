@@ -57,6 +57,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/)|[Java](src/main/java/com/github/xdshent/leetcode/array/HeightCheckerSolution.java) | Easy |
 | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FixedPointSolution.java) | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java](src/main/java/com/github/xdshent/leetcode/array/DuplicateZerosSolution.java) | Easy |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/RelativeSortArraySolution.java) | Easy |
 
 ## Linked
 
