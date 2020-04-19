@@ -19,6 +19,7 @@ Data structure and algorithms practice in Java, will be continuously updated.
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MaximumSubarraySolution.java) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SpiralMatrixSolution.java) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)|[Java](src/main/java/com/github/xdshent/leetcode/array/PlusOneSolution.java) | Easy |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](src/main/java/com/github/xdshent/leetcode/array/SortColorsSolution.java) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/main/java/com/github/xdshent/leetcode/array/MergeSortedArraySolution.java) | Easy |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](src/main/java/com/github/xdshent/leetcode/array/FindPeakElementSolution.java) | Medium |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](src/main/java/com/github/xdshent/leetcode/array/TwoSumSecondSolution.java) | Easy |
