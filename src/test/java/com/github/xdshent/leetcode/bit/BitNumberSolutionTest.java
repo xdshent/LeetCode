@@ -21,19 +21,35 @@ public class BitNumberSolutionTest {
     @Test
     public void testHammingWeight() {
         int x = 0b000000000000000001;
-        int result = bitNumberSolution.hammingWeight(x);
+        int result = bitNumberSolution.hammingWeightOne(x);
         Assert.assertEquals(1, result);
 
         x = 0b11111111111111111111111111111101;
-        result = bitNumberSolution.hammingWeight(x);
+        result = bitNumberSolution.hammingWeightOne(x);
         Assert.assertEquals(31, result);
 
         x = 0b00000000000000000000000000001011;
-        result = bitNumberSolution.hammingWeight(x);
+        result = bitNumberSolution.hammingWeightOne(x);
         Assert.assertEquals(3, result);
 
         x = 0;
-        result = bitNumberSolution.hammingWeight(x);
+        result = bitNumberSolution.hammingWeightOne(x);
+        Assert.assertEquals(0, result);
+
+        x = 0b000000000000000001;
+        result = bitNumberSolution.hammingWeightTwo(x);
+        Assert.assertEquals(1, result);
+
+        x = 0b11111111111111111111111111111101;
+        result = bitNumberSolution.hammingWeightTwo(x);
+        Assert.assertEquals(31, result);
+
+        x = 0b00000000000000000000000000001011;
+        result = bitNumberSolution.hammingWeightTwo(x);
+        Assert.assertEquals(3, result);
+
+        x = 0;
+        result = bitNumberSolution.hammingWeightTwo(x);
         Assert.assertEquals(0, result);
     }
 }
