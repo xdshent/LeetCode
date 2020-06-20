@@ -28,12 +28,29 @@ public class BitNumberSolution {
      * @param n
      * @return
      */
-    public int hammingWeight(int n) {
+    public int hammingWeightOne(int n) {
         int count = 0;
         while (n != 0) {
             count++;
             n &= n - 1;
         }
+        return count;
+    }
+
+    /**
+     * Time Complexity: O(1)
+     * Space Complexity: O(1)
+     *
+     * @param n
+     * @return
+     */
+    public int hammingWeightTwo(int n) {
+        int count = 0;
+        while (n != 0) {
+            count += (n & 1);
+            n >>>= 1;
+        }
+
         return count;
     }
 }
